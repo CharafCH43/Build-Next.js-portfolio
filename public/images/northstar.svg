@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<rect width="900" height="700" fill="#d9e3ec"/>
+<rect x="100" y="90" width="700" height="520" rx="12" fill="#f7f5ef"/>
+<rect x="135" y="125" width="220" height="14" rx="7" fill="#20211e"/>
+<rect x="135" y="158" width="130" height="8" rx="4" fill="#b7b8af"/>
+<rect x="135" y="220" width="190" height="130" rx="7" fill="#e8e4d8"/>
+<rect x="350" y="220" width="190" height="130" rx="7" fill="#d6e46b"/>
+<rect x="565" y="220" width="190" height="130" rx="7" fill="#f3b79c"/>
+<path d="M160 310 205 280l38 17 47-51" stroke="#3157d5" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="650" cy="285" r="45" fill="none" stroke="#f16b3a" stroke-width="13"/>
+<path d="M650 230v55l38 20" stroke="#f16b3a" stroke-width="8" fill="none"/>
+<path d="M145 405h610M145 455h610M145 505h610" stroke="#d9d7ce" stroke-width="10" stroke-linecap="round"/>
+<path d="m450 60 17 42 45 2-35 27 12 43-39-25-39 25 12-43-35-27 45-2Z" fill="#3157d5"/>
+<text x="150" y="570" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#20211e">SEE THE SIGNAL. FIND YOUR NORTH.</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<rect width="900" height="700" fill="#f0a17d"/>
+<circle cx="700" cy="140" r="180" fill="#d8d9f4"/>
+<path d="M0 480c180-90 330-60 480 15s280 65 420-20v225H0Z" fill="#3157d5"/>
+<path d="M120 560V300h55v260m85 0V220h55v340m85 0V340h55v220" stroke="#20211e" stroke-width="12" fill="none"/>
+<path d="M95 310h270M95 390h270" stroke="#20211e" stroke-width="8"/>
+<text x="440" y="330" font-family="Georgia,serif" font-size="78" fill="#20211e">common</text>
+<text x="440" y="415" font-family="Georgia,serif" font-size="78" font-style="italic" fill="#20211e">ground.</text>
+<text x="445" y="465" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#20211e">GROW TOGETHER</text>
+</svg>

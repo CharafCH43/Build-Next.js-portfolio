@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<rect width="900" height="700" fill="#e8e4d8"/>
+<path d="M0 550 900 390v310H0Z" fill="#d7e36c"/>
+<rect x="160" y="110" width="430" height="490" rx="5" transform="rotate(-8 160 110)" fill="#f7f5ef"/>
+<rect x="220" y="145" width="430" height="490" rx="5" transform="rotate(5 220 145)" fill="#3157d5"/>
+<rect x="265" y="185" width="430" height="490" rx="5" transform="rotate(5 265 185)" fill="#f16b3a"/>
+<text x="320" y="330" font-family="Georgia,serif" font-size="76" font-style="italic" fill="#20211e">field</text>
+<text x="320" y="405" font-family="Georgia,serif" font-size="76" font-style="italic" fill="#20211e">notes.</text>
+<path d="M335 450h230" stroke="#20211e" stroke-width="3"/>
+<text x="335" y="490" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="#20211e">COLLECT / CONNECT / CREATE</text>
+<circle cx="735" cy="135" r="62" fill="#d6e46b"/>
+<path d="m735 92 12 31 33 1-26 20 9 32-28-19-28 19 9-32-26-20 33-1Z" fill="#20211e"/>
+</svg>

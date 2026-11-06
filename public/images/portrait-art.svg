@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820">
+<rect width="720" height="820" fill="#e7d9c6"/>
+<circle cx="550" cy="150" r="118" fill="#d8e56d"/>
+<path d="M0 610C115 525 188 520 290 580s205 110 430-5v245H0Z" fill="#3157d5"/>
+<path d="M140 820c15-160 82-257 220-257s208 97 220 257Z" fill="#f16b3a"/>
+<path d="M234 350c0-145 69-229 176-229s176 84 176 229v125c0 127-78 209-176 209s-176-82-176-209Z" fill="#a95f3d"/>
+<path d="M229 355c-19-170 66-267 185-267 105 0 184 74 186 220-49-4-90-32-122-82-48 70-134 111-249 129Z" fill="#20211e"/>
+<path d="M270 407c-3-40 24-67 61-67 36 0 60 26 59 65-1 37-27 60-61 60-34 0-56-22-59-58Z" fill="#f0b58b"/>
+<path d="M446 405c-1-38 24-64 59-64 37 0 61 25 60 64-1 36-26 59-60 59-35 0-58-22-59-59Z" fill="#f0b58b"/>
+<path d="M308 404h44m151 0h42" stroke="#20211e" stroke-width="10" stroke-linecap="round"/>
+<path d="M423 419c-4 47-20 76-7 87 9 7 24 7 34 1" fill="none" stroke="#7c402f" stroke-width="8" stroke-linecap="round"/>
+<path d="M345 527c40 32 91 33 132-1" fill="none" stroke="#20211e" stroke-width="9" stroke-linecap="round"/>
+<path d="M165 820c12-93 53-166 119-205l116 83 115-83c74 42 112 115 123 205Z" fill="#f7f5ef"/>
+<path d="m400 698 43-70 44 70-43 87Z" fill="#d6e46b"/>
+<path d="M40 100h125M40 128h76" stroke="#f16b3a" stroke-width="7" stroke-linecap="round"/>
+<text x="48" y="760" font-family="Arial,sans-serif" font-size="20" letter-spacing="5" fill="#f7f5ef">ALEX MORGAN</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<rect width="900" height="700" fill="#e8d8c4"/>
+<circle cx="650" cy="190" r="120" fill="#f16b3a"/>
+<path d="M0 550h900v150H0Z" fill="#d6e46b"/>
+<path d="M270 280h310v35H270z" fill="#3157d5"/>
+<path d="M300 315v210m250-210v210" stroke="#3157d5" stroke-width="24"/>
+<path d="M260 530h330" stroke="#20211e" stroke-width="12" stroke-linecap="round"/>
+<path d="M365 280v-110h120v110" fill="none" stroke="#20211e" stroke-width="12"/>
+<path d="M425 170c-70-75-20-125 25-115 60 15 34 82-25 115Z" fill="#f7f5ef"/>
+<text x="90" y="100" font-family="Georgia,serif" font-size="72" font-style="italic" fill="#20211e">Sunday</text>
+<text x="95" y="145" font-family="Arial,sans-serif" font-size="17" letter-spacing="6" fill="#20211e">OBJECTS FOR EVERYDAY LIVING</text>
+</svg>
