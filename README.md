@@ -109,16 +109,5 @@ npm run lint
 
 Vercel will build and host the site. Each new push to the connected GitHub branch can trigger a new deployment.
 
-## 7. Push to GitHub
 
-From the project root:
-
-```bash
-git init
-git add .
-git commit -m "Build Next.js portfolio checkpoint"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
-```
 
