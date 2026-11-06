@@ -4,42 +4,42 @@ import SectionHeading from "@/components/SectionHeading";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Get to know Alex Morgan, an independent designer and developer.",
+  description: "Get to know Charaf, a computer science engineer focused on information systems and software development.",
 };
 
 const principles = [
-  ["01", "Stay curious", "Ask better questions before jumping to familiar answers."],
-  ["02", "Make it useful", "A beautiful interface should make someone's day a little easier."],
-  ["03", "Sweat the details", "The small decisions are often what make the whole thing feel right."],
+  ["01", "Stay curious", "Understand the real need before choosing a technical solution."],
+  ["02", "Make it useful", "A useful application should simplify a real task for its users."],
+  ["03", "Sweat the details", "Reliable data, maintainable code, and clear interfaces matter."],
 ];
 
 export default function AboutPage() {
   return (
     <div className="inner-page page-shell">
       <SectionHeading
-        eyebrow="A person behind the pixels"
+        eyebrow="The engineer behind the systems"
         title="Good work starts with good questions."
-        description="I’m Alex Morgan, an independent designer and front-end developer interested in the space between how things work and how they make us feel."
+        description="I’m Charaf, a computer science engineer specialized in information systems and decision-support systems. I build software that helps teams organize information, follow their work, and make better-informed decisions."
       />
 
       <section className="about-layout">
         <div className="about-image">
-          <Image src="/images/portrait-art.svg" alt="Abstract illustrated portrait representing Alex Morgan" fill sizes="(max-width: 760px) 100vw, 42vw" />
-          <span className="image-label">A portrait, in shapes.</span>
+          <Image src="/images/portrait-art.svg" alt="Abstract illustrated portrait representing Charaf" fill sizes="(max-width: 760px) 100vw, 42vw" />
+          <span className="image-label">A personal illustration.</span>
         </div>
         <div className="about-copy">
           <p className="eyebrow">A little introduction</p>
-          <h2>Part thinker.<br /><span className="serif-italic">Part maker.</span><br />Always learning.</h2>
+          <h2>Engineer.<br /><span className="serif-italic">Developer.</span><br />Always learning.</h2>
           <p>
-            I work across research, visual design, and front-end development.
-            That mix lets me move from the first messy question to a finished
-            experience without losing sight of the people using it.
+            My work combines application development, database design, information systems, and data analysis. I enjoy turning operational needs into clear workflows, dependable APIs, and practical interfaces.
           </p>
           <p>
-            I like generous typography, useful details, thoughtful systems,
-            independent magazines, long walks, and ideas that become real.
+            I completed my engineering studies at École Militaire Polytechnique, specializing in Information Systems and Decision Support. I work at the Centre National d’Ingénierie et de Développement des Infrastructures, within the Information Systems Department.
           </p>
-          <a className="text-link" href="mailto:hello@example.com">Say hello <span>↗</span></a>
+          <p>
+            My interests include artificial intelligence, business intelligence, data analytics, and building web and mobile applications. I work with React, Next.js, TypeScript, ASP.NET Core, SQL databases, and React Native.
+          </p>
+          <a className="text-link" href="/contact">Get in touch <span>↗</span></a>
         </div>
       </section>
 

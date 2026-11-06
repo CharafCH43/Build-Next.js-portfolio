@@ -21,6 +21,9 @@ export default function ProjectsPage() {
           <article className="project-detail" id={project.number} key={project.number}>
             <ProjectCard project={project} />
             <p className="project-description">{project.description}</p>
+            <ul className="project-technologies" aria-label="Technologies">
+              {project.technologies.map((technology) => <li key={technology}>{technology}</li>)}
+            </ul>
           </article>
         ))}
       </div>

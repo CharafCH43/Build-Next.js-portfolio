@@ -9,6 +9,7 @@ export type Project = {
   image: string;
   alt: string;
   description: string;
+  technologies: string[];
 };
 
 export default function ProjectCard({ project }: { project: Project }) {

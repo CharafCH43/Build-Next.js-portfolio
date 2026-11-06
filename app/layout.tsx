@@ -5,11 +5,11 @@ import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: {
-    default: "Alex Morgan — Digital Designer & Developer",
-    template: "%s | Alex Morgan",
+    default: "Charaf — Computer Science Engineer",
+    template: "%s | Charaf",
   },
   description:
-    "A selected collection of digital products, interfaces, and experiments by Alex Morgan.",
+    "Portfolio of Charaf, computer science engineer specializing in information systems and decision-support systems.",
 };
 
 export default function RootLayout({

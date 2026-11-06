@@ -10,8 +10,8 @@ const navigation = [
 export default function SiteHeader() {
   return (
     <header className="site-header">
-      <Link className="wordmark" href="/" aria-label="Alex Morgan home">
-        AM<span className="wordmark-dot">.</span>
+      <Link className="wordmark" href="/" aria-label="Charaf home">
+        CH<span className="wordmark-dot">.</span>
       </Link>
 
       <nav className="main-nav" aria-label="Main navigation">
@@ -24,7 +24,7 @@ export default function SiteHeader() {
 
       <a className="header-availability" href="/contact">
         <span className="availability-dot" />
-        Available for select work
+        Open to technical opportunities
       </a>
     </header>
   );

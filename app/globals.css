@@ -186,3 +186,6 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .contact-email { font-size: clamp(1.8rem, 8vw, 3.2rem); }
   .contact-bottom-note { gap: 15px; font-size: .52rem; }
 }
+
+.project-technologies { display: flex; flex-wrap: wrap; gap: 7px; list-style: none; padding: 0; margin: 15px 0 0; }
+.project-technologies li { border: 1px solid var(--line, #dedbd2); border-radius: 999px; padding: 6px 10px; color: #55574f; font-size: .68rem; letter-spacing: .01em; }
